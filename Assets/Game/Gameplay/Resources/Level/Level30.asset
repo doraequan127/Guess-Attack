@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 037adca72cefaf044bd5fcdc68f5346a, type: 3}
+  m_Name: Level30
+  m_EditorClassIdentifier: 
+  enemyPositionList: 03000000040000000b000000100000000f00000014000000190000001200000020000000
+  openedSquareCount: 35
+  attackLineLength: 5
+  openedSquareCountPlayer: 35
+  playerPositionList1: 03000000040000000b000000100000000f000000140000001b0000001c00000022000000
+  playerPositionList2: 000000000100000007000000080000000e0000000f00000015000000160000001d000000
+  playerPositionList3: 200000001a000000140000000e0000000700000000000000090000000400000005000000
